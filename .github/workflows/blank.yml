@@ -33,4 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           brew install aria2 robotsandpencils/made/xcodes
-          xcodes download --latest-prerelease --experimental-unxip
+          xcodes download --latest-prerelease
